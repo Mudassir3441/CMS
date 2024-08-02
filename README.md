@@ -50,6 +50,6 @@ The Complaint Management System (CMS) is designed to help institutions like scho
 
 ## Developed by
 
-* Abdullah Awan
-  - <mlkabawan336@mgmail.com>
+* Mudassir Ali
+  - <malikmudasirali46@gmail.com>
 
